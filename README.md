@@ -1,15 +1,13 @@
 # AI methods
 
+## Description:
+This is a n-queen problem solver using local search algorithms.
 
 ### Local search algorithms
 
 - Hill Climbing
 - Hill Climbing with random restart
 - Simulated Annealing
-
-## N-Queen problem solver
-## Description:
-This is a n-queen problem solver using local search algorithms.
 
 ### Heuristic/Heurística:
 
